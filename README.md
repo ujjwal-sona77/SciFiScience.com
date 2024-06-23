@@ -1,10 +1,9 @@
 # SciFiScience.com
 Made By Ujjwal
 <br>
-Class 8 
+Class 9
 <br>
-Defence Public School
+Japuriar School
 <br>
-Jaipur 
+Mumbai 
 <br>
-Rajasthan 
