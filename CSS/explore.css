@@ -1,4 +1,4 @@
-@media (min-width: 900px) and (max-width: 2500px) {
+@media (min-width: 800px) and (max-width: 5000px) {
     @font-face {
         font-family: gilroy-bold;
         src: url(../FONTS/Gilroy-ExtraBold.woff2);
